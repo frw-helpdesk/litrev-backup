@@ -1,0 +1,46 @@
+/* Index */
+
+.redacted {
+    text-decoration: line-through;
+}
+
+.big-man {
+    font-family: cursive, sans-serif;
+    color: grey;
+    padding: 5px;
+    border: 5px groove pink;
+}
+
+
+
+/* Utility */
+
+/* Align="center" */
+.cent {
+    margin: 0 auto;
+}
+
+/* Align="left" */
+.left {
+    float: left;
+}
+
+/* Font size="+1" */
+.big-font {
+    font-size: large;
+}
+
+/* Font size="-1" */
+.sml-font {
+    font-size: small;
+}
+
+/* font color="#CC6633" */
+.peaches {
+    color: #CC6633;
+}
+
+/* font color="#FF0000" */
+.attention {
+    color: #FF0000;
+}
