@@ -43,3 +43,20 @@ Feedback MailTo: frw@gwu.edu
   CDXLines.iter: 18.598 (3)
   load_resource: 293.019 (2)
   PetaboxLoader3.resolve: 184.858 (2) -->
+  <!-- BEGIN WAYBACK TOOLBAR INSERT -->
+        <style type="text/css">
+        body {
+          margin-top:0 !important;
+          padding-top:0 !important;
+          /*min-width:800px !important;*/
+        }
+        </style>
+        <script>__wm.rw(0);</script>
+        <div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
+        </div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20190623065631/https://www2.gwu.edu/~litrev/a04.html</div>
+        <script type="text/javascript">//<![CDATA[
+        __wm.bt(675,27,25,2,"web","https://www2.gwu.edu/~litrev/a04.html","20190623065631",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+          __wm.rw(1);
+        //]]></script>
+        <!-- END WAYBACK TOOLBAR INSERT -->
+        &nbsp;
