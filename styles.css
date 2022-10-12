@@ -18,9 +18,11 @@
 /* replacing outdated html with css */
 
 /* <center> */
+/* align="CENTER" */
 .cent {
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
 }
 
 /* Align="left" */
@@ -28,9 +30,19 @@
     float: left;
 }
 
+/* align="ABSCENTER" */
+.vert-cent {
+    vertical-align: middle;
+}
+
 /* Font size="+1" */
 .big-font {
     font-size: large;
+}
+
+/* Font size="+2" */
+.bigger-font {
+    font-size: xx-large;
 }
 
 /* Font size="-1" */
