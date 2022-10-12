@@ -23,16 +23,17 @@ Feedback MailTo: frw@gwu.edu
     - Align
     - Valign
     - Border=0
+    - <center>
 
  - removing this text from HTML
-    <!--
+    <p>
      FILE ARCHIVED ON 03:00:42 Jun 23, 2019 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 17:42:55 Sep 26, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)). -->
-    <!-- playback timings (ms):
+    playback timings (ms):
   captures_list: 250.197
   exclusion.robots: 0.422
   exclusion.robots.policy: 0.407
@@ -43,7 +44,8 @@ Feedback MailTo: frw@gwu.edu
   CDXLines.iter: 18.598 (3)
   load_resource: 293.019 (2)
   PetaboxLoader3.resolve: 184.858 (2) -->
-  <!-- BEGIN WAYBACK TOOLBAR INSERT -->
+  
+  </p>
         <style type="text/css">
         body {
           margin-top:0 !important;
