@@ -9,7 +9,10 @@
 
 ## Change progress
 * 10/10/22
-    - added all lesson files to repository
+    - added all lesson files backed up into repository
+
+* 10/18/22
+    - replaced all internal links to lessons and pictures to local copies within repo
 
 ### File redirect changes
 Images/gifs -> local copys in repo
@@ -33,8 +36,8 @@ Feedback MailTo: frw@gwu.edu
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)). -->
-    playback timings (ms):
-  captures_list: 250.197
+      playback timings (ms):
+    captures_list: 250.197
   exclusion.robots: 0.422
   exclusion.robots.policy: 0.407
   RedisCDXSource: 48.02
