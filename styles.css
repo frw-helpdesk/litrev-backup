@@ -64,3 +64,8 @@
 .good-blue {
     color: #000066;
 }
+
+/* font face="Times New Roman,Times" */
+.times {
+    font-family: 'Times New Roman', Times, serif;
+}
