@@ -68,4 +68,11 @@
 /* font face="Times New Roman,Times" */
 .times {
     font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+/* s6 i hate you */
+.times > li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
