@@ -99,13 +99,14 @@
     ```
   </p>
 
-  #### Final Regards
-  - I'm glad that I was the one to grab this ticket. I think the members of our team would have happily done the initial research to determine that this site has been decommissioned, but with everything else going on, this inquiry would have been in a limbo state for a while. This was something that I saw as an opportunity of service and growth, which at the day is what it's all about, eh? Thanks Prof. Nakib for the project, and for being patient while I figured out what the best thing to do was in my context. Links are a bit outdated, I must admit, but I see why you would have considered this worth preserving. I hope it helps you create a new iteration that is modern and exciting! 
+  <!-- #### Final Regards
+  - I'm glad that I was the one to grab this ticket. I think the members of our team would have happily done the initial research to determine that this site has been decommissioned, but with everything else going on, this inquiry would have been in a limbo state for a while. This was something that I saw as an opportunity of service and growth, which at the day is what it's all about, eh? Thanks Prof. Nakib for the project, and for being patient while I figured out what the best thing to do was in my context. Links are a bit outdated, I must admit, but I see why you would have considered this worth preserving. I hope it helps you create a new iteration that is modern and exciting!  -->
 
 # Contact
 ### I can be reached through the following channels
-- Email - Hexaforest@gmail.com
-- Github - https://github.com/ForestW70
+- Email - Frw@gwu.edu
+- Heldesk Github - https://github.com/frw-helpdesk
+- Personal Github - https://github.com/ForestW70
 - LinkedIn - https://www.linkedin.com/in/forestwilson
 
 ### Bored? Here's some other stuff I work on
