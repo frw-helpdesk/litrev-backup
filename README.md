@@ -15,7 +15,7 @@
 
   - INC000000984198 was a ticket opened in our system on August 23, 2022, Prof. Yas Nakib was requesting info on this page, which no longer worked for him. He used it during his time here and was trying to find a way to view its contents again. This link, however, was a flat 404.
 
-  - After talking with a very helpful librarian, Rachel, she discovered we can view the webpage through Archive.org's WBM. After "taking in" this ticket so to speak, I wanted to try and work with Prof. Nakib to get this information for him in an easily consumable way. At the same time, I saw this as an opportunity to continue practicing aspects of web development by refactoring this page and deploying it as it would have been used back in the day. The can of worms that proceeded from this decision to preserve this page was dull at times, but overall incredibly interesting and intriguing. 
+  - After talking with a very helpful librarian, Rachel, she discovered we can view the webpage through Archive.org's WBM. After "taking in" this ticket so to speak, I wanted to try and work with Prof. Nakib to get this information for him in an easily consumable way. At the same time, I saw this as an opportunity to continue practicing aspects of web development by refactoring this page and deploying it as it would have been used back in the day. Choosing to revitalize this page was a bit dull and tedious at times, but in the end, it was a can of worms that I am glad I opened.
 
 
 
@@ -30,8 +30,11 @@
 ### Notes
 
   #### Timeline
+  * 09/26/22
+    - created new repository that I pasted the WBM's code into
+
   * 10/10/22
-    - added all lesson files backed up into repository
+    - added all lesson files as .html pages within the repo
 
   * 10/18/22
     - replaced all internal links to lessons and pictures to local copies within repo
@@ -39,6 +42,10 @@
   * 10/20/22
     - refactored Lesson pages to remove depricated HTML in replacement of css classes.
     - added raw text of all lessons to markdown files. ./raw-text
+  
+  * 10/24/22
+    - Added .md files containing most outdated links
+    - finalized readme contents
 
   #### File redirect changes
     - Images/gifs -> local copys in repo
