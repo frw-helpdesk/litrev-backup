@@ -27,78 +27,80 @@
   - [Visit Repo](https://github.com/frw-helpdesk/litrev-backup)
 
 
-### Changes
+### Notes
 
-#### Timeline
-* 10/10/22
-  - added all lesson files backed up into repository
+  #### Timeline
+  * 10/10/22
+    - added all lesson files backed up into repository
 
-* 10/18/22
-  - replaced all internal links to lessons and pictures to local copies within repo
+  * 10/18/22
+    - replaced all internal links to lessons and pictures to local copies within repo
 
-* 10/20/22
-  - refactored Lesson pages to remove depricated HTML in replacement of css classes.
-  - added raw text of all lessons to markdown files. ./raw-text
+  * 10/20/22
+    - refactored Lesson pages to remove depricated HTML in replacement of css classes.
+    - added raw text of all lessons to markdown files. ./raw-text
 
-#### File redirect changes
-Images/gifs -> local copys in repo
-Lessons (s1-10,a1-8,i1-6) -> local copys in repo
-Feedback MailTo: frw@gwu.edu
+  #### File redirect changes
+    - Images/gifs -> local copys in repo
+    - Lessons (s1-10,a1-8,i1-6) -> local copys in repo
+    - Feedback MailTo: frw@gwu.edu
 
-#### other notes
- - removed &nbsp; (spacer char)
+  #### other notes
+  - removed &nbsp; (spacer char)
 
- - remove attributes, created classes
-    - Align
-    - Valign
-    - Border=0
-    - < center>
-    - TIMES
+  - remove attributes, created classes
+      - Align
+      - Valign
+      - Border=0
+      - < center>
+      - TIMES
 
- - removing this text from HTML
-```text
-  FILE ARCHIVED ON 03:00:42 Jun 23, 2019 AND RETRIEVED FROM THE
-  INTERNET ARCHIVE ON 17:42:55 Sep 26, 2022.
-  JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+  - removing this text from HTML
+  ```text
+    FILE ARCHIVED ON 03:00:42 Jun 23, 2019 AND RETRIEVED FROM THE
+    INTERNET ARCHIVE ON 17:42:55 Sep 26, 2022.
+    JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
-   ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-  SECTION 108(a)(3)). -->
-  playback timings (ms):
-  captures_list: 250.197
-  exclusion.robots: 0.422
-  exclusion.robots.policy: 0.407
-  RedisCDXSource: 48.02
-  esindex: 0.01
-  LoadShardBlock: 170.819 (3)
-  PetaboxLoader3.datanode: 176.275 (5)
-  CDXLines.iter: 18.598 (3)
-  load_resource: 293.019 (2)
-  PetaboxLoader3.resolve: 184.858 (2) -->
-```
-
-  ```text 
-  <style type="text/css">
-    body {
-      margin-top:0 !important;
-      padding-top:0 !important;
-      min-width:800px !important;
-  }
-  </style>
-
-  <script>__wm.rw(0);</script>
-  <div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
-  </div>
-  <div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20190623065631/https://www2.gwu.edu/~litrev/a04.html
-  </div>
-  <script type="text/javascript">//<![CDATA[
-  __wm.bt(675,27,25,2,"web","https://www2.gwu.edu/~litrev/a04.html","20190623065631",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
-  __wm.rw(1);
-  //]]></script>
-  <!-- END WAYBACK TOOLBAR INSERT -->
-  &nbsp;
+    ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+    SECTION 108(a)(3)). -->
+    playback timings (ms):
+    captures_list: 250.197
+    exclusion.robots: 0.422
+    exclusion.robots.policy: 0.407
+    RedisCDXSource: 48.02
+    esindex: 0.01
+    LoadShardBlock: 170.819 (3)
+    PetaboxLoader3.datanode: 176.275 (5)
+    CDXLines.iter: 18.598 (3)
+    load_resource: 293.019 (2)
+    PetaboxLoader3.resolve: 184.858 (2) -->
   ```
-</p>
 
+    ```text 
+    <style type="text/css">
+      body {
+        margin-top:0 !important;
+        padding-top:0 !important;
+        min-width:800px !important;
+    }
+    </style>
+
+    <script>__wm.rw(0);</script>
+    <div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
+    </div>
+    <div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20190623065631/https://www2.gwu.edu/~litrev/a04.html
+    </div>
+    <script type="text/javascript">//<![CDATA[
+    __wm.bt(675,27,25,2,"web","https://www2.gwu.edu/~litrev/a04.html","20190623065631",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+    __wm.rw(1);
+    //]]></script>
+    <!-- END WAYBACK TOOLBAR INSERT -->
+    &nbsp;
+    ```
+  </p>
+
+  #### Final Regards
+  - I'm glad that I was the one to grab this ticket. I think the members of our team would have happily done the initial research to determine that this site has been decommissioned, but with everything else going on, this inquiry would have been in a limbo state for a while. This was something that I saw as an opportunity of service and growth, which at the day is what it's all about, eh? Thanks Prof. Nakib for the project, and for being patient while I figured out what the best thing to do was in my context. Links are a bit outdated, I must admit, but I see why you would have considered this worth preserving. I hope it helps you create a new iteration that is modern and exciting! 
 
 # Contact
 ### I can be reached through the following channels
@@ -106,12 +108,6 @@ Feedback MailTo: frw@gwu.edu
 - Github - https://github.com/ForestW70
 - LinkedIn - https://www.linkedin.com/in/forestwilson
 
-### Bored? Here's some other stuff I make
+### Bored? Here's some other stuff I work on
 - BCC Player - https://burnthis.space
 - Soundcloud - https://soundcloud.com/itsjustaburner
-
-<!-- 
-Final Notes 
-
-  - I'm glad that I was the one to grab this ticket. I think the members of our team would have happily done the initial research to determine that this site has been decommissioned, but with everything else going on, this inquiry would have been in a limbo state for a while. This was something that I saw as an opportunity of service and growth, which at the day is what it's all about, eh? Thanks Prof. Nakib for the project, and for being patient while I figured out what the best thing to do was in my context. Links are a bit outdated, I must admit, but I see why you would have considered this worth preserving. I hope it helps you create a new iteration that is modern and exciting! 
--->
