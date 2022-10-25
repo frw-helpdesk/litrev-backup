@@ -10,7 +10,10 @@
     padding: 5px;
     border: 5px groove pink;
     width: 570px;
-    
+}
+
+#had2DoIt {
+    cursor: wait;
 }
 
 
